@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sangameshwar@gmail.com**
   
-### 🔧 Technologies and Tools
+###  Technologies and Tools
 - **Cloud**: AWS
 - **Containerization**: Docker, Kubernetes, ECS, EKS
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
